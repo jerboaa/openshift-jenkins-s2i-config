@@ -1,5 +1,6 @@
 ace-editor:1.1
 async-http-client:1.7.8
+ansicolor:0.5.2
 ant:1.5
 antisamy-markup-formatter:1.5
 authentication-tokens:1.3
@@ -27,6 +28,7 @@ build-timeout:1.18
 cloudbees-folder:6.1.2
 credentials-binding:1.13
 credentials:2.1.14
+config-file-provider:2.16.4
 display-url-api:2.0
 docker-commons:1.8
 docker-workflow:1.12
